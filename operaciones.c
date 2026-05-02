@@ -2,9 +2,9 @@
 
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
 
-int sumar(int a, int b) {
+int sumar(const int a,const int b) {
     return a + b;
-}
+} //resuelve la suma de dos enteros y devuelve el resultado.
 
 /* ── restar — ya implementada ────────────────────────────────────────────── */
 
